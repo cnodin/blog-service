@@ -1,6 +1,7 @@
 package app
 
 import (
+	"github.com/cnodin/blog-service/global"
 	"github.com/cnodin/blog-service/pkg/convert"
 	"github.com/gin-gonic/gin"
 )
@@ -11,4 +12,16 @@ func GetPage(c *gin.Context) int {
 		return 1
 	}
 	return page
+}
+
+func GetPageSize(c *gin.Context) int {
+	pageSize := convert.StrTo(c.Query("page_size")).MustInt()
+	if pageSize <= 0 {
+		return global.AppSetting.DefaultPageSize
+	}
+	if pageSize > global.AppSetting.MaxPageSize {
+		return global.AppSetting.MaxPageSize
+	}
+
+	return pageSize
 }

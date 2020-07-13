@@ -4,3 +4,6 @@
 2020/07/14 06:19:37 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1594678777207507000}
 2020/07/14 06:19:45 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1594678785138333000}
 2020/07/14 06:19:45 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1594678785138390000}
+2020/07/14 06:48:04 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1594680484100781000}
+2020/07/14 06:48:44 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1594680524253479000}
+2020/07/14 06:51:17 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1594680677235733000}
