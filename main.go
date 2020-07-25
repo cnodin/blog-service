@@ -22,8 +22,17 @@ func init() {
 	if err != nil {
 		log.Fatalf("init.setupLogger err: %v", err)
 	}
+
+	err = setupDBEngine()
+	if err != nil {
+		log.Fatalf("init.setupDBEngine err: %v", err)
+	}
 }
 
+// @title 博客系统
+// @version 1.0
+// @description blog-service, go demo project
+// @termsOfService https://github.com/cnodin/blog-service
 func main() {
 	//g := gin.Default()
 	//g.GET("/", func(c *gin.Context) {

@@ -1,14 +1,21 @@
 package routers
 
 import (
+	_ "github.com/cnodin/blog-service/docs"
+	"github.com/cnodin/blog-service/internal/middleware"
 	apiv1 "github.com/cnodin/blog-service/internal/routers/api/v1"
 	"github.com/gin-gonic/gin"
+	swaggerFiles "github.com/swaggo/files"
+	ginSwagger "github.com/swaggo/gin-swagger"
 )
 
 func NewRouter() *gin.Engine {
 	r := gin.New()
 	r.Use(gin.Logger())
 	r.Use(gin.Recovery())
+	r.Use(middleware.Translations())
+	r.GET("/swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))
+
 	article := apiv1.NewArticle()
 	tag := apiv1.NewTag()
 
@@ -18,7 +25,7 @@ func NewRouter() *gin.Engine {
 		apiV1.DELETE("/tags/:id", tag.Delete)
 		apiV1.PUT("/tags/:id", tag.Update)
 		apiV1.PATCH("/tags/:id/state", tag.Update)
-		apiV1.GET("/tags/:id", tag.Get)
+		//apiV1.GET("/tags/:id", tag.Get)
 		apiV1.GET("/tags", tag.List)
 
 		apiV1.POST("/articles", article.Create)

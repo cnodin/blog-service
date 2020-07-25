@@ -178,3 +178,6 @@ func (l *Logger) Fatalf(format string, v ...interface{}) {
 }
 
 //TODO:add error,warn
+func (l *Logger) Errorf(format string, v ...interface{})  {
+	l.WithLevel(LevelError).Output(fmt.Sprintf(format, v...))
+}

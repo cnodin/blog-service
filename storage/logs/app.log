@@ -7,3 +7,149 @@
 2020/07/14 06:48:04 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1594680484100781000}
 2020/07/14 06:48:44 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1594680524253479000}
 2020/07/14 06:51:17 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1594680677235733000}
+2020/07/16 06:37:37 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1594852657958836000}
+2020/07/16 06:55:29 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1594853729313582000}
+2020/07/19 07:51:53 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595116313793147000}
+2020/07/19 07:52:25 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595116345617787000}
+2020/07/19 07:52:26 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595116346336248000}
+2020/07/19 07:52:34 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: \u0026v%!(EXTRA app.ValidErrors=)","time":1595116354140197000}
+2020/07/19 07:56:52 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595116612832201000}
+2020/07/19 07:56:53 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595116613318569000}
+2020/07/19 07:56:57 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: \u0026v%!(EXTRA app.ValidErrors=)","time":1595116617795554000}
+2020/07/19 07:59:17 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595116757501303000}
+2020/07/19 07:59:34 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595116774752841000}
+2020/07/19 07:59:34 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595116774752920000}
+2020/07/19 08:01:21 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595116881986341000}
+2020/07/19 08:01:37 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595116897318046000}
+2020/07/19 08:01:37 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595116897756361000}
+2020/07/19 08:03:29 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: \u0026v%!(EXTRA app.ValidErrors=)","time":1595117009549580000}
+2020/07/19 08:03:45 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595117025466422000}
+2020/07/19 08:04:57 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595117097168449000}
+2020/07/19 08:04:57 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595117097168658000}
+2020/07/19 08:04:57 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: \u0026v%!(EXTRA app.ValidErrors=)","time":1595117097918383000}
+2020/07/19 08:05:07 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595117107459523000}
+2020/07/19 08:05:07 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595117107459753000}
+2020/07/19 08:05:08 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: \u0026v%!(EXTRA app.ValidErrors=)","time":1595117108161235000}
+2020/07/19 08:24:24 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595118264841655000}
+2020/07/19 08:24:37 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595118277255184000}
+2020/07/19 08:24:37 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595118277255394000}
+2020/07/19 08:24:38 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: \u0026v%!(EXTRA app.ValidErrors=)","time":1595118278251995000}
+2020/07/19 08:29:48 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595118588573007000}
+2020/07/19 08:29:48 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595118588573160000}
+2020/07/19 08:38:21 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595119101350127000}
+2020/07/19 08:38:30 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595119110329070000}
+2020/07/19 08:38:30 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595119110329225000}
+2020/07/19 08:44:44 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595119484566084000}
+2020/07/19 08:45:03 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595119503500707000}
+2020/07/19 08:45:03 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595119503937041000}
+2020/07/19 08:45:07 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: \u0026v%!(EXTRA app.ValidErrors=)","time":1595119507775815000}
+2020/07/19 08:47:27 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595119647984091000}
+2020/07/19 08:47:40 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595119660539579000}
+2020/07/19 08:47:40 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595119660810986000}
+2020/07/19 09:04:46 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595120686419198000}
+2020/07/19 09:04:55 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595120695241644000}
+2020/07/19 09:04:55 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595120695241712000}
+2020/07/19 09:05:21 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595120721348950000}
+2020/07/19 09:05:26 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595120726572618000}
+2020/07/19 09:05:26 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595120726572663000}
+2020/07/19 09:06:19 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595120779127441000}
+2020/07/19 09:06:23 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595120783387161000}
+2020/07/19 09:06:23 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595120783387203000}
+2020/07/19 09:06:52 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595120812712437000}
+2020/07/19 09:07:04 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595120824173889000}
+2020/07/19 09:07:07 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595120827452756000}
+2020/07/19 09:07:07 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595120827452803000}
+2020/07/19 09:07:16 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595120836215062000}
+2020/07/19 09:07:24 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595120844411596000}
+2020/07/19 09:07:24 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595120844932091000}
+2020/07/19 09:13:09 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595121189255468000}
+2020/07/19 09:13:18 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595121198328529000}
+2020/07/19 09:13:18 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595121198328619000}
+2020/07/19 09:13:28 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595121208717346000}
+2020/07/19 09:13:29 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595121209271258000}
+2020/07/19 09:14:13 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595121253054977000}
+2020/07/19 09:14:13 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595121253055123000}
+2020/07/19 09:15:04 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595121304188109000}
+2020/07/19 09:15:14 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595121314072001000}
+2020/07/19 09:15:14 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595121314072087000}
+2020/07/19 09:25:39 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595121939769294000}
+2020/07/19 09:25:52 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595121952225048000}
+2020/07/19 09:25:52 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595121952225270000}
+2020/07/19 09:25:52 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: \u0026v%!(EXTRA app.ValidErrors=Key: 'State' Error:Field validation for 'State' failed on the 'oneof' tag)","time":1595121952876769000}
+2020/07/19 09:28:16 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595122096739740000}
+2020/07/19 09:28:16 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595122096739869000}
+2020/07/19 09:35:39 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595122539879722000}
+2020/07/19 09:35:46 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595122546691355000}
+2020/07/19 09:35:46 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595122546691415000}
+2020/07/19 09:35:46 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: \u0026v%!(EXTRA app.ValidErrors=)","time":1595122546691621000}
+2020/07/19 09:35:56 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595122556694486000}
+2020/07/19 09:35:56 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595122556694617000}
+2020/07/19 09:35:56 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: \u0026v%!(EXTRA app.ValidErrors=)","time":1595122556694702000}
+2020/07/19 09:36:10 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595122570896794000}
+2020/07/19 09:36:15 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595122575909195000}
+2020/07/19 09:36:16 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595122576111849000}
+2020/07/19 09:37:36 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595122656496313000}
+2020/07/19 09:37:43 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595122663124331000}
+2020/07/19 09:37:43 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595122663124408000}
+2020/07/19 09:37:44 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: \u0026v%!(EXTRA app.ValidErrors=Key: 'State' Error:Field validation for 'State' failed on the 'oneof' tag)","time":1595122664483850000}
+2020/07/19 09:43:37 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595123017884149000}
+2020/07/19 09:43:43 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595123023023892000}
+2020/07/19 09:43:43 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595123023023950000}
+2020/07/19 09:43:54 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595123034335038000}
+2020/07/19 09:43:54 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595123034335092000}
+2020/07/19 09:44:00 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595123040852629000}
+2020/07/19 09:44:00 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595123040852730000}
+2020/07/19 09:44:09 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595123049011389000}
+2020/07/19 09:44:09 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595123049011475000}
+2020/07/19 09:44:21 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595123061517735000}
+2020/07/19 09:44:21 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595123061517798000}
+2020/07/19 09:44:41 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595123081335411000}
+2020/07/19 09:44:41 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595123081335515000}
+2020/07/19 09:44:46 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595123086435620000}
+2020/07/19 09:44:56 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595123096826814000}
+2020/07/19 09:44:56 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595123096826948000}
+2020/07/19 09:45:24 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595123124059850000}
+2020/07/19 09:45:24 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595123124883162000}
+2020/07/19 09:46:28 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595123188728724000}
+2020/07/19 09:46:36 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595123196269102000}
+2020/07/19 09:46:36 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595123196269269000}
+2020/07/19 09:46:38 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: \u0026v%!(EXTRA app.ValidErrors=Key: 'State' Error:Field validation for 'State' failed on the 'oneof' tag)","time":1595123198487001000}
+2020/07/19 09:54:52 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595123692158180000}
+2020/07/19 09:55:01 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595123701323843000}
+2020/07/19 09:55:01 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595123701323951000}
+2020/07/19 09:59:05 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595123945656832000}
+2020/07/19 09:59:13 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595123953349549000}
+2020/07/19 09:59:13 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595123953349669000}
+2020/07/19 10:09:21 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595124561323119000}
+2020/07/19 10:09:32 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag: tag.List","time":1595124572030117000}
+2020/07/19 10:09:32 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"tag:tag.List","time":1595124572030168000}
+2020/07/19 10:09:32 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: \u0026v%!(EXTRA app.ValidErrors=State必须是[0 1]中的一个)","time":1595124572030289000}
+2020/07/19 22:11:34 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595167894238183000}
+2020/07/19 22:12:18 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为3个字符","time":1595167938433052000}
+2020/07/19 22:12:54 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595167974758911000}
+2020/07/19 22:15:39 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595168139099892000}
+2020/07/19 22:20:17 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595168417688331000}
+2020/07/19 22:20:33 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"svc.Create err: Error 1146: Table 'blog_service.blog_tag' doesn't exist","time":1595168433411821000}
+2020/07/19 22:21:21 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"svc.CountTag err: Error 1146: Table 'blog_service.blog_tag' doesn't exist","time":1595168481180224000}
+2020/07/19 22:21:33 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"svc.CountTag err: Error 1146: Table 'blog_service.blog_tag' doesn't exist","time":1595168493037771000}
+2020/07/20 06:02:51 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595196171923937000}
+2020/07/20 06:04:07 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: State为必填字段, Name长度必须至少为3个字符","time":1595196247047545000}
+2020/07/20 06:07:47 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为3个字符, State为必填字段","time":1595196467820094000}
+2020/07/20 06:10:15 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为3个字符, State为必填字段","time":1595196615108392000}
+2020/07/20 06:11:00 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为3个字符","time":1595196660892430000}
+2020/07/20 06:11:29 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为3个字符, State为必填字段","time":1595196689140725000}
+2020/07/20 06:11:56 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"app.BindAndValid errs: State为必填字段","time":1595196716100433000}
+2020/07/20 06:15:40 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595196940847243000}
+2020/07/20 06:16:53 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595197013332536000}
+2020/07/25 17:40:41 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595670041241615000}
+2020/07/25 17:41:03 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"svc.GetArticle err: Error 1146: Table 'blog_service.blog_acticle' doesn't exist","time":1595670063895402000}
+2020/07/25 21:32:34 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"svc.CreateArticle err: Error 1146: Table 'blog_service.blog_acticle' doesn't exist","time":1595683954677156000}
+2020/07/25 21:37:59 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595684279104586000}
+2020/07/25 21:41:59 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595684519313924000}
+2020/07/25 21:44:44 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595684684980671000}
+2020/07/25 21:48:45 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595684925083332000}
+2020/07/25 21:51:47 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595685107700560000}
+2020/07/25 21:52:28 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595685148018552000}
+2020/07/25 21:53:00 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595685180998300000}
+2020/07/25 21:54:12 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595685252220264000}
+2020/07/25 22:36:41 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595687801827779000}
