@@ -153,3 +153,7 @@
 2020/07/25 21:53:00 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595685180998300000}
 2020/07/25 21:54:12 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595685252220264000}
 2020/07/25 22:36:41 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595687801827779000}
+2020/07/26 14:24:12 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595744652373527000}
+2020/07/26 14:40:13 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"error","message":"svc.UploadFile err: File suffix is not supported","time":1595745613630295000}
+2020/07/26 14:45:29 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595745929970334000}
+2020/07/26 14:47:09 {"callers":["/Users/pollux/document/github/cnodin/blog-service/main.go: 21 main.init.0"],"level":"info","message":"eddycjy: go-programming-tour-book/blog-service","time":1595746029353132000}

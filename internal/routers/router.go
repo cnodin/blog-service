@@ -2,11 +2,13 @@ package routers
 
 import (
 	_ "github.com/cnodin/blog-service/docs"
+	"github.com/cnodin/blog-service/global"
 	"github.com/cnodin/blog-service/internal/middleware"
 	apiv1 "github.com/cnodin/blog-service/internal/routers/api/v1"
 	"github.com/gin-gonic/gin"
 	swaggerFiles "github.com/swaggo/files"
 	ginSwagger "github.com/swaggo/gin-swagger"
+	"net/http"
 )
 
 func NewRouter() *gin.Engine {
@@ -14,10 +16,15 @@ func NewRouter() *gin.Engine {
 	r.Use(gin.Logger())
 	r.Use(gin.Recovery())
 	r.Use(middleware.Translations())
-	r.GET("/swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))
+
 
 	article := apiv1.NewArticle()
 	tag := apiv1.NewTag()
+	upload := apiv1.NewUpload()
+
+	r.GET("/swagger/*any", ginSwagger.WrapHandler(swaggerFiles.Handler))
+	r.POST("/upload/file", upload.UploadFile)
+	r.StaticFS("/static", http.Dir(global.AppSetting.UploadSavePath))
 
 	apiV1 := r.Group("/api/v1")
 	{
